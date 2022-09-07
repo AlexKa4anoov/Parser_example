@@ -1,2 +1,6 @@
 name = input('Text your name')
-print (f'Hi {name} Its Test code for Git')
+if name == 'Alex':
+    print (f'Hi {name} Its Test code for Git')
+else:
+    print('Where is alex?')
+
