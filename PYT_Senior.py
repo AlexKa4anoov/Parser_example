@@ -1,4 +1,4 @@
-name = input('Text your name')
+name = input('Text your name   ')
 
 if name == 'Alex':
     print (f'Hi {name} Its Test code for Git')
@@ -11,4 +11,6 @@ a= 3
 b = 4
 c = a+b
 d = c - 1
+print(d-c)
+
 
