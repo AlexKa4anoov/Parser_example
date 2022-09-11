@@ -6,3 +6,5 @@ else:
     print('Where is Alex?')
 
 print('Something for commit')
+
+a= 3
